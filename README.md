@@ -11,7 +11,7 @@ Due for upgrades.
 - implement checks for invalid input puzzle (cells either empty or a number appears once in a row, column or grid)
 - print 3x3 gridlines in the board
 - color the empty cells that have been filled
-- implement a visulaizer [!!]
+- implement a visualizer [!!]
 
 ### Credits
 
